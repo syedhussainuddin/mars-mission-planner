@@ -1,3 +1,9 @@
+# Mars project: big raw data and Python files
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+
 # Logs
 logs
 *.log
