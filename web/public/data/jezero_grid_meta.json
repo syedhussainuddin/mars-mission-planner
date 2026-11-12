@@ -1,0 +1,19 @@
+{
+  "source_file": "MSR_hirise_soc_003_DTM_MOLATopography_DeltaGeoid_1m_Eqc_latTs0_lon0_Blend40.tif",
+  "crs": "PROJCS[\"Equirectangular_MARS\",GEOGCS[\"GCS_D_MARS\",DATUM[\"D_MARS\",SPHEROID[\"MARS_localRadius\",3396190,0]],PRIMEM[\"Reference_Meridian\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Equirectangular\"],PARAMETER[\"standard_parallel_1\",0],PARAMETER[\"central_meridian\",0],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "width": 500,
+  "height": 500,
+  "bounds": {
+    "xmin": 4573152.0,
+    "ymin": 1084394.0,
+    "xmax": 4581152.0,
+    "ymax": 1092394.0
+  },
+  "cell_size": {
+    "x": 16.0,
+    "y": 16.0
+  },
+  "elevation_units": "metres (CHECK against the source metadata)",
+  "nodata": "cells with no data are null in the grid",
+  "origin": "row 0 is the north edge, column 0 is the west edge"
+}
